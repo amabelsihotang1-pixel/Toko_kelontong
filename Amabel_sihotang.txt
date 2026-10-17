@@ -1,0 +1,3 @@
+Nama : Amabel Sihotang
+
+Role / Job desk / Work Description : mengatur alur kerja Git, memantau perubahan kode, serta memastikan pekerjaan tim tersimpan di repository GitHub

@@ -1,0 +1,3 @@
+Nama : Mutiara
+
+Role / Job desk / Work Description : membantu koordinasi antaranggota tim, memperbarui pekerjaan menggunakan git pull, serta mengirim perubahan menggunakan git push
